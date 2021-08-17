@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things programming
 - 🌱 I’m currently learning how to be a full stack developer
 - 💞️ I’m looking to collaborate on anything someone wants to teach me about
-- 📫 Reach me at murrakami92@gmail.com or murakami#6195 on discord
+- 📫 Reach me at murrakami92@gmail.com
 
 <!---
 murakamii/murakamii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
